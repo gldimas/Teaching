@@ -1,4 +1,4 @@
-temp,weekday,website_traffic,ice_cream_sold
+temp,day_of_week,website_traffic,ice_cream_sold
 62.0,Weekend,54,202.0
 97.0,Weekend,74,275.0
 84.0,Weekday,55,194.0
